@@ -22,7 +22,8 @@
     //modified 2, in feature
     //modified 3, in feature
     //modified 4, in feature
-    //1.0 have released, modified 5, in feature. 
+    //1.0 have released, modified 5, in feature.
+    //fix 1.0 Bug ,in fixBug-1.0 测试
 }
 
 - (void)didReceiveMemoryWarning {
